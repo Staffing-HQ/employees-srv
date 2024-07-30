@@ -14,7 +14,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: group:default/developers
+  owner: group:default/hr
   system: employees-system
   providesApis:
     - employees-srv-api
@@ -32,7 +32,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: group:default/developers
+  owner: group:default/hr
   system: employees-system
   definition:
     $text: ./openapi.yaml
