@@ -1,0 +1,8 @@
+site_name: "employees-srv"
+site_description: "A microservice to manage employees."
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
