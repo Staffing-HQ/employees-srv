@@ -7,6 +7,7 @@ metadata:
   annotations:
       github.com/project-slug: Staffing-HQ/employees-srv
       backstage.io/techdocs-ref: dir:.
+      sonarqube.org/project-key: Staffing-HQ_employees-srv
   tags:
     - fastapi
     - python
